@@ -128,7 +128,7 @@ Se todas as verificações forem verdadeiras, a solução será **aceita**.
 A implementação da solução está disponível em:
 
 ```text
-solution.ts
+index.ts
 ```
 
 ### Complexidade
