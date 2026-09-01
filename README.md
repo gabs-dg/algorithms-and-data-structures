@@ -9,7 +9,7 @@
 <!-- Substitua o caminho abaixo pelo banner do projeto -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="LeetCode Algorithms & Data Structures Banner" width="100%">
+  <img src="https://trypear.ai/blog/introducing-leetcode-feature" alt="LeetCode Algorithms & Data Structures Banner" width="100%">
 </p>
 
 ---
