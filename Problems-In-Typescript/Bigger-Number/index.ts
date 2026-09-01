@@ -1,10 +1,13 @@
-const findLargestNumberinArray = (nums: number[]): number => {
+const findLargestNumberinArray = (nums: number[]): number => 
+{
        let largest: number = nums[0];
 
-       for (let i: number = 1; i < nums.length; i++) {
-              if (nums[i] > largest) {
+       for (let i: number = 1; i < nums.length; i++) 
+       {
+              if (nums[i] > largest) 
+              {
                      largest = nums[i];
-              }
+              } 
        }
 
        return largest;

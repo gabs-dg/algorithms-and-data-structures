@@ -25,18 +25,18 @@ Saída:
 0
 ```
 
-`"sad"` aparece nos índices `0` e `6`. Como queremos a primeira ocorrência, o resultado é `0`.
+`"sad"` aparece nos índi
 
 ### Exemplo 2
 
-```text
+````text
 Entrada:
 haystack = "leetcode"
 needle = "leeto"
 
 Saída:
 -1
-```
+```ces `0` e `6`. Como queremos a primeira ocorrência, o resultado é `0`.
 
 `"leeto"` não aparece em `"leetcode"`, portanto retornamos `-1`.
 
@@ -62,7 +62,7 @@ var strStr = function(haystack, needle) {
 
     return -1;
 };
-```
+````
 
 ### Como funciona
 
@@ -126,14 +126,14 @@ Para cada posição possível em `haystack`, podemos precisar comparar vários c
 
 ## Casos de teste
 
-| `haystack` | `needle` | Resultado |
-|---|---|---:|
-| `"sadbutsad"` | `"sad"` | `0` |
-| `"leetcode"` | `"leeto"` | `-1` |
-| `"hello"` | `"ll"` | `2` |
-| `"aaaaa"` | `"bba"` | `-1` |
-| `"a"` | `"a"` | `0` |
-| `"mississippi"` | `"issip"` | `4` |
+| `haystack`      | `needle`  | Resultado |
+| --------------- | --------- | --------: |
+| `"sadbutsad"`   | `"sad"`   |       `0` |
+| `"leetcode"`    | `"leeto"` |      `-1` |
+| `"hello"`       | `"ll"`    |       `2` |
+| `"aaaaa"`       | `"bba"`   |      `-1` |
+| `"a"`           | `"a"`     |       `0` |
+| `"mississippi"` | `"issip"` |       `4` |
 
 ---
 
