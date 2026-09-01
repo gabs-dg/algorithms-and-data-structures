@@ -7,7 +7,7 @@
 <!-- Substitua o caminho abaixo pelo banner do projeto -->
 
 <p align="center">
-  <img src="./img/leetcode.png" alt="LeetCode Algorithms & Data Structures Banner" width="100%">
+  <img src="./assets/leetcode.png" alt="LeetCode Algorithms & Data Structures Banner" width="100%">
 </p>
 
 ---
