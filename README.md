@@ -4,8 +4,6 @@
 
 ---
 
-## 🖼️ Banner
-
 <!-- Substitua o caminho abaixo pelo banner do projeto -->
 
 <p align="center">
@@ -137,10 +135,10 @@ A quantidade de exercícios resolvidos será atualizada conforme o avanço no es
 
 | Dificuldade | Resolvidos |
 |---|---:|
-| 🟢 Easy | `0` |
+| 🟢 Easy | `3` |
 | 🟡 Medium | `0` |
 | 🔴 Hard | `0` |
-| **Total** | **0** |
+| **Total** | **3** |
 
 ---
 
