@@ -3,5 +3,22 @@
     "@typescript-eslint/eslint-plugin": "^8.69.0",
     "@typescript-eslint/parser": "^8.69.0",
     "eslint": "^10.9.1"
-  }
+  },
+  "name": "algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "> Repositório destinado à prática e resolução de problemas de **algoritmos e estruturas de dados** através de exercícios da plataforma **LeetCode**.",
+  "main": "eslint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabs-dg/algorithms-and-data-structures.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gabs-dg/algorithms-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/gabs-dg/algorithms-and-data-structures#readme"
 }
